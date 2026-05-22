@@ -97,4 +97,4 @@ judgment-reader/
 
 ## 许可
 
-如果你准备开源，建议补充 `LICENSE` 文件，例如 MIT。
+本项目采用 [MIT License](./LICENSE) 开源许可。
